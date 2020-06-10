@@ -24,4 +24,4 @@ The Algorithms used are :
 
 ![Screenshot 3](/screenshots/ss3.png)
 
-Developed by: [Kanishk Sharma]('github.com/lonewolf-X')
+> Developed by: [Kanishk Sharma]('github.com/lonewolf-X')
