@@ -1,5 +1,5 @@
 # Cancer-prediction-in Early-stages
-[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/ellerbrock/open-source-badge/) [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://codeclimate.com/github/boennemann/badges)
+[![Open Source Love](https://badges.frapsoft.com/os/v3/open-source.svg?v=102)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages) [![Code Climate](https://codeclimate.com/github/boennemann/badges.svg)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages)
 
 The cancer like lung, prostrate, and colorectal cancers contribute up to 45% of cancer deaths. So it is very important to detect or predict before it reaches to serious stages. If cancer predicted in its early stages, then it helps to save the lives. Statistical methods are generally used for classification of risks of cancer i.e. high risk or low risk. Sometime it becomes difficult to handle the complex interactions of highdimensional data.
 
@@ -28,4 +28,4 @@ The Algorithms used are :
 > Developed by: [Kanishk Sharma]('github.com/kanishksh4rma')
 
 
-[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://github.com/kanishksh4rma/Cancer-Prediction-in-Early-stages)
