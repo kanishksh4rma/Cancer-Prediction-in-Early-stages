@@ -27,4 +27,5 @@ The Algorithms used are :
 
 > Developed by: [Kanishk Sharma]('github.com/kanishksh4rma')
 
-[![forthebadge](https://forthebadge.com/images/badges/built-by-developers.svg)](http://forthebadge.com) [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
+
+[![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](http://forthebadge.com)
